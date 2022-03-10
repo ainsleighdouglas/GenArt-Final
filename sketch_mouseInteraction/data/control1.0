@@ -1,0 +1,7 @@
+ 
+s1	right toggle L and R	3	SLIDER	z	0	1.0	0.0
+s2	right toggle up and down	3	SLIDER	rz	0	1.0	0.0
+click	button right toggle	1	BUTTON	11	0	0.0	0.0
+s3	left toggle L and R	3	SLIDER	x	0	1.0	0.0
+s4	left toggle up and down	3	SLIDER	y	0	1.0	0.0
+click2	button left toggle	1	BUTTON	10	0	0.0	0.0
